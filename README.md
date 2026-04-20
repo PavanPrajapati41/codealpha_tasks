@@ -1,19 +1,46 @@
-# Hangman Game (Python)
+# CodeAlpha Python Tasks
 
-## Description
-This is a simple text-based Hangman game built using Python.
+## 👨‍💻 Submitted by
+Pavan Prajapati
 
-## Features
+---
+
+## 📌 Task 1: Hangman Game
+
+### Description
+A simple text-based Hangman game where the player guesses a word letter by letter.
+
+### Features
 - Random word selection
-- 6 attempts limit
+- 6 incorrect attempts allowed
 - Tracks guessed letters
-- User-friendly console output
+- Win/Loss condition
 
-## Concepts Used
-- random module
-- loops (while)
-- conditionals (if-else)
-- lists and strings
-
-## How to Run
+### How to Run
 python hangman.py
+
+---
+
+## 🤖 Task 2: Basic Chatbot
+
+### Description
+A simple rule-based chatbot that responds to basic user inputs.
+
+### Features
+- Responds to greetings like "hello"
+- Handles "how are you", "bye", etc.
+- Continuous conversation using loop
+
+### How to Run
+python chatbot.py
+
+---
+
+## 🛠 Technologies Used
+- Python
+- Basic programming concepts (loops, functions, conditions)
+
+---
+
+## 📎 Repository Link
+https://github.com/PavanPrajapati41/codealpha_tasks
